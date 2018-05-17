@@ -1,5 +1,5 @@
 # apple-mouse-redesign
-Quick redesign challenge for class
+Improved Ergonomic Apple Magic Mouse
 
 
 # Purpose
